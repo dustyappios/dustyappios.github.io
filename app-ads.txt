@@ -1,2 +1,0 @@
-# Replace the line below with the one AdMob gives you (AdMob → Apps → View all apps → app-ads.txt).
-google.com, pub-REPLACE-WITH-YOUR-PUBLISHER-ID, DIRECT, f08c47fec0942fa0
